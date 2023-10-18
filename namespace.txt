@@ -1,0 +1,21 @@
+Namespace-
+A namespace is a declarative region that provides a scope to the identifiers (the names of types, functions, variables, etc) inside it.
+
+namespace provide a more structured and explicit way to organise entities and avoid name collision.
+
+Exception handling keywords-
+1. Try
+2. Catch
+3. Throw
+
+Exception handling-
+When executing C++ code, different errors can occur: coding errors made by the programmer, errors due to wrong input, 
+or other unforeseeable things.
+
+When an error occurs, C++ will normally stop and generate an error message. 
+The technical term for this is: C++ will throw an exception (error).
+
+File management-
+ 1. File management
+ 2. Database management system
+
